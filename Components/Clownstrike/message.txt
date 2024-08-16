@@ -1,0 +1,7 @@
+This "CTF challenge" was kind of inspired by the Clownstrike clusterfuck that happened back in July 2024 where they shut down half the world (take a look here: https://www.crowdstrike.com/blog/falcon-update-for-windows-hosts-technical-details/).
+
+I don't know, but they swore up and down that that `.sys` file with 41kb of null bytes was not the problem ._. 
+Surreeeee Clownstrike. It was a "logic error." Not that file full of zeroes though. We don't talk about that. Don't look at that.
+
+If you found this stuff fun, consider joining SCDT! We meet every Monday at 9PM and we try to do things like this. Unlike Clownstrike, we won't blow up your PC.
+I kind of made this mini-CTF in like an hour, but if you would like to expand on it, let us know and that's something we could work on :)

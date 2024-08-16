@@ -1,0 +1,60 @@
+Filetype: Flipper NFC device
+Version: 2
+Device type: NTAG213
+UID: 04 4F A8 92 5D 5A 81
+ATQA: 44 00
+SAK: 00
+Signature: E6 E8 71 1B 4A 20 FD A6 B3 F7 0D FA 58 B0 ED 5E 40 9E 02 1F DF FD 7C DA 80 7B 0E 23 4C F4 A0 86
+Mifare version: 00 04 04 02 01 00 0F 03
+Counter 0: 0
+Tearing 0: 00
+Counter 1: 0
+Tearing 1: 00
+Counter 2: 0
+Tearing 2: 00
+Pages total: 45
+Page 0: 04 4F A8 6B
+Page 1: 92 5D 5A 81
+Page 2: 14 48 00 00
+Page 3: E1 10 12 00
+Page 4: 03 2A D1 01
+Page 5: 26 55 04 64
+Page 6: 75 63 6B 6C
+Page 7: 69 6E 6B 2E
+Page 8: 73 74 65 76
+Page 9: 65 6E 73 2E
+Page 10: 65 64 75 2F
+Page 11: 53 43 44 54
+Page 12: 2F 63 6C 75
+Page 13: 62 5F 73 69
+Page 14: 67 6E 75 70
+Page 15: FE 00 00 00
+Page 16: 00 00 00 00
+Page 17: 00 00 00 00
+Page 18: 00 00 00 00
+Page 19: 00 00 00 00
+Page 20: 00 00 00 00
+Page 21: 00 00 00 00
+Page 22: 00 00 00 00
+Page 23: 00 00 00 00
+Page 24: 00 00 00 00
+Page 25: 00 00 00 00
+Page 26: 00 00 00 00
+Page 27: 00 00 00 00
+Page 28: 00 00 00 00
+Page 29: 00 00 00 00
+Page 30: 00 00 00 00
+Page 31: 00 00 00 00
+Page 32: 00 00 00 00
+Page 33: 00 00 00 00
+Page 34: 00 00 00 00
+Page 35: 00 00 00 00
+Page 36: 00 00 00 00
+Page 37: 00 00 00 00
+Page 38: 00 00 00 00
+Page 39: 00 00 00 00
+Page 40: 00 00 00 BD
+Page 41: 04 00 00 FF
+Page 42: 00 05 00 00
+Page 43: 00 00 00 00
+Page 44: 00 00 00 00
